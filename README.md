@@ -423,3 +423,12 @@ The goal of this project is to simulate and visualize **machine-learning-based v
 The system combines:
 
 * Real-time user mobility
+
+
+# References
+
+X. Tan, G. Chen, and H. Sun, "Vertical handover algorithm based on multi-attribute and neural network in heterogeneous integrated network," EURASIP Journal on Wireless Communications and Networking, vol. 2020, article 202, 2020.
+
+https://doi.org/10.1186/s13638-020-01822-1
+
+The paper presents a vertical handover algorithm using Back-Propagation (BP) neural networks across UMTS, GPRS, WLAN, 4G, and 5G networks. It uses six network attributes — maximum transmission rate, minimum delay, SINR, bit error rate, user moving speed, and packet loss rate — as neural-network inputs and predicts network download rate to support the handover decision.
